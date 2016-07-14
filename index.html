@@ -1,6 +1,16 @@
 ---
 layout: default
+title: K3no.com Fron End Web Development, UI,UX Design
 ---
+
+
+{% for post in site.posts %}
+
+<h1>{{ post.date }}</h1>
+
+{% endfor %}
+
+
 
 <div class="row postIndex">
       <div class ="col-sm-1"></div>
@@ -10,6 +20,10 @@ layout: default
 
         <h1><b>Posts, Articles, Words, Bacon:</b></h1>
         <br />
+
+
+
+
 <!--           Your For each loop should start here -->
 
         <div class="list-group">
