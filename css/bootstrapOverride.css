@@ -1,0 +1,457 @@
+/* Blog Section*/
+
+.postIndex{
+  font-family: "", sans-serif, monospace;
+  font-size: 18px;
+
+}
+.postIndex .row {
+  min-height:1000px;
+    background-color: white;
+}
+
+.postIndex a, a:active, a:hover{
+  color: black;
+}
+
+.postIndex .list-group-item-text{
+   font-family: "Courier New", Courier, monospace;
+   font-size: 19px;
+   font-style: italic;
+}
+
+list-group-item-heading{
+}
+
+/* Blog Section*/
+
+
+
+
+/* Start Fonts*/
+
+.navbar-brand{
+  font-family: 'Comfortaa', cursive !important;
+  font-size: 32px;
+}
+
+
+.welcome{
+font-family: 'Merriweather', serif;
+}
+
+.welcome blockquote footer::before {
+  content: none !important;
+}
+
+/*font-family: 'Oswald', sans-serif; Normal 400
+font-family: 'Great Vibes', cursive;
+font-family: 'Comfortaa', cursive;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Merriweather', serif; Normal 400 Normal 400 Italic Bold 700
+font-family: 'Alfa Slab One', cursive;
+*/
+
+.back2work{
+  font-size: 20px;
+}
+
+.projectHeading p{
+  font-family: 'Merriweather' !important;
+  font-size: 18px;
+}
+
+.txtBlocklight p{
+  font-family: 'Merriweather' !important;
+  font-size: 17px !important;
+}
+
+.Merri{
+  font-family: 'Merriweather' !important;
+}
+
+.MerriP p{
+  font-family: 'Merriweather' !important;
+  font-size: 17px;
+}
+
+.projectP p{
+  font-size: 20px !important;
+}
+
+/* End Fonts*/
+
+body {
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+  font-size: 16px !important;
+}
+
+.navbar {
+  margin-bottom: 20px !important;
+}
+
+/*Round Corners */
+
+* {
+  border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+}
+
+/*.jumbotron p {
+  font-size: 19px !important;
+}*/
+
+/*Spacer Row*/
+
+.spacer {
+    margin-top: 40px; /* define margin as you see fit */
+}
+
+
+/*Icon LinkBar colors*/
+
+/*All*/
+
+.linkBar a, .linkBar a:visited {
+    color: #525252 !important;
+}
+
+.linkBar a:hover, .linkBar a:active {
+    color: #262626 !important;
+}
+
+/*Individual */
+
+/*.fa-instagram {
+  color: #ffffff;
+  background-color:#A1755C;
+  }*/
+
+
+.fa-quote-left{
+  color: #a8a5a5;
+}
+
+.fa-quote-right{
+  color: #a8a5a5;
+}
+
+/*Jumbotron Wide Image*/
+
+.wideImage {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  background-color: #ffffff ;
+}
+
+.wideImage h1,h2,h3,h4,h5,hr{
+  padding-left: 6%;
+}
+
+.wideImage p{
+  padding-left: 6% !important;
+  padding-right: 6% !important;
+}
+
+.wideImage a, .wideImage a:visited {
+    color: #333 !important;
+    text-decoration: none !important;
+}
+
+.wideImage a:hover, .wideImage a:active {
+    color: #333 !important;
+    text-decoration: none !important;
+}
+
+
+/*PORTFOLIO*/
+
+.portfolio{
+  padding-top: 0 !important;
+  background-color: #ffffff;
+}
+
+.portfolio a{
+  text-decoration: none;
+}
+
+.portfolio h3{
+  font-size: 20px;
+}
+
+
+.latest{
+  /*color: #dd2222;*/
+  font-family: 'Great Vibes', cursive !important;
+  color: #ff0507;
+  font-size: 26px;
+}
+/*.wideImage.latest{
+  font-size: 30px !important;
+}*/
+
+.centerImg {
+  margin: 0 auto !important;
+}
+
+.cv{
+  padding-left: 4% !important;
+  padding-right: 4% !important;
+}
+
+.cvhr{
+  margin-top:0px;
+  max-width: 80%;
+}
+
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+}
+
+
+blockquote {
+    border-left: none;
+}
+
+.thumbnail .caption{
+  padding: 0px;
+  text-align: center;
+}
+
+
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+
+strong{
+  font-size: 20px;
+}
+
+.gMap{
+  margin-top: -70px;
+}
+
+.media-body p{
+  font-size: 15px !important;
+}
+
+
+.projectImg{
+  max-height: 400px !important;
+}
+
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+
+
+.carousel-indicators li {
+  background-color: #ffffff;
+  border: 1px solid #454545;
+  border-radius: 10px !important;
+}
+.carousel-indicators .active {
+  background-color: #454545;
+  border: 1px solid #454545;
+  border-radius: 10px !important;
+}
+
+/*font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Architects Daughter', cursive;
+font-family: 'Bangers', cursive;
+*/
+
+
+.services li{
+  font-size: 22px;
+  margin-left: 20px !important;
+  border: 0px !important;
+}
+
+.servicesHead p{
+  font-size: 28px !important;
+  font-weight: bold !important;
+  color: #b9b9b9 !important;
+  margin-left: -20px;
+}
+
+/*.lobster{
+  font-family: 'Lobster', cursive !important;
+}*/
+
+.pacifico{
+  font-family: 'Pacifico', cursive !important;
+}
+
+/*.architect{
+  font-family: 'Architects Daughter', cursive !important;
+}*/
+
+.bangers{
+  font-family: 'Bangers', cursive !important;
+}
+
+/*.comforta{
+  font-family: 'Comfortaa', cursive !important;
+}*/
+
+.kenoAvatar{
+  border-radius: 10px !important;
+  -moz-border-radius: 10px !important;
+}
+
+
+/*mrSneakerH*/
+
+#svgRightView{
+  background-color: #FFFFFF;
+  vertical-align: top;
+  width: 100%;
+  height: 100%;
+}
+
+#mSneakerpbar {
+  height: 40px;
+  position: relative;
+}
+
+#mSneakerpbar .progress-bar {
+  font-size: 20px !important;
+  line-height: 40px !important;
+  float: left;
+}
+
+#svgKit{
+  background-color: #FFFFFF;
+  vertical-align: top;
+  width: 100%;
+  height: 100%;
+}
+
+#uploadKit{
+  border-radius: 2px !important;
+  -moz-border-radius: 2px !important;
+  margin-top:20px;
+  margin-left:20px;
+}
+
+#refreshB{
+  border-radius: 2px !important;
+  -moz-border-radius: 2px !important;
+  margin-top:20px;
+  margin-left:20px;
+}
+
+#pBarText{
+position: absolute;
+top: 0;
+/*right: 20px;*/
+left: 40px;
+}
+
+#pText{
+  color:#6a6a6a  !important;
+  /*margin-left: 10px !important;*/
+  font-size: 20px !important;
+  line-height: 40px !important;
+}
+
+.manualT img{
+  padding: 4px;
+  background-color: #3e3e3e;
+  border-radius: 8px !important;
+}
+
+
+/*mrSneakerH*/
+
+.jumbotron{
+margin-bottom: 0px !important;
+padding-bottom: 0px !important;
+}
+
+
+ /*Navbar colors */
+
+.navbar-default {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+.navbar-default .navbar-brand {
+  color: #000000 !important;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color: #5a5a5a !important;
+}
+.navbar-default .navbar-text {
+  color: #000000 !important;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #000000 !important;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #5a5a5a !important;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  color: #5a5a5a !important;
+  background-color: #ffffff !important;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+  color: #5a5a5a !important;
+
+  background-color: #ffffff !important;
+}
+.navbar-default .navbar-toggle {
+  border-color: #ffffff !important;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: #ffffff !important;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #000000 !important;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #000000 !important;
+}
+.navbar-default .navbar-link {
+  color: #000000 !important;
+}
+.navbar-default .navbar-link:hover {
+  color: #5a5a5a !important;
+}
+
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover{
+  background-color: #f4f4f4 !important;
+  color: #000000 !important;
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #000000 !important;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #5a5a5a !important;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #5a5a5a !important;
+    background-color: #ffffff !important;
+  }
+}
