@@ -11,5 +11,3 @@ highlighter: rouge
 # Build settings
 exclude:
   - README.md
-github:
-  url: http://localhost:4000
