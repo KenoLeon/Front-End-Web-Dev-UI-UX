@@ -1,7 +1,77 @@
 
 
-<!-- Main Content -->
+{% include head.html %}
 
- {{content}}
+<body>
 
-<!-- Main Content -->
+  <div class="container">
+
+    <!-- Static navbar -->
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="http://www.k3no.com">K3NO</a>
+        </div>
+
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+
+
+
+<li><a href="http://www.k3no.com/pages/about.html">About</a></li>
+<li><a href="http://www.k3no.com/pages/contact.html">Contact</a></li>
+            <!-- <li class="active"><a href="#">Work</a></li> -->
+
+             <li class="dropdown">
+             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Work <span class="caret"></span></a>
+             <ul class="dropdown-menu" role="menu">
+               <li><a href="http://www.k3no.com/projects/consumerProducts.html">Consumer Products</a></li>
+               <li><a href="http://www.k3no.com/footwearDesign/footwearDesign.html">Footwear Design</a></li>
+               <li><a href="http://www.k3no.com/pages/everything.html">Everything</a></li>
+             </ul>
+           </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div><!--/.container-fluid -->
+    </nav>
+
+    <div class="row">
+      <!-- Social Media and other Portfolio Sites -->
+      <div class="col-md-6 col-md-offset-3 text-center linkBar">
+        <a href="https://codepen.io/k3no/" target="_blank"><i class="fa fa-codepen fa-2x"></i></a>
+        <a href="https://instagram.com/instakenogram/" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
+        <a href="https://www.linkedin.com/in/kenoleon" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+        <a href="mailto:me@k3no.com"><i class="fa fa-envelope-o fa-2x"></i></a>
+      </div>
+    </div>
+
+    <div class="row spacer"></div>
+
+    <!-- Main Content -->
+
+     {{content}}
+
+
+    <!-- Main Content -->
+
+
+        <div class="row spacer"></div>
+
+          <footer class="text-center"> Copyright © 2016 k3no.com</footer>
+
+   </div> <!--Container -->
+
+   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+   <!-- Include all compiled plugins (below), or include individual files as needed -->
+   <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+
+
+</body>
+</html>
