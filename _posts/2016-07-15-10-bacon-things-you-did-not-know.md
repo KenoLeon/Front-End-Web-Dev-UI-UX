@@ -11,7 +11,13 @@ excerpt: Jerky ham hock ball tip fatback kielbasa pancetta doner meatloaf pork l
           <br />
           <h1><b>FRANCIS BACON TITLE</b></h1>
           <br/>
-          <p>Bacon ipsum dolor amet capicola beef ribs shoulder turkey, andouille beef swine <strong>drumstick</strong> chuck ball tip ham hock tri-tip ham rump corned beef. Pork chop chuck tenderloin spare ribs ribeye flank. Drumstick sausage doner, <i><b>porchetta tail</b></i> prosciutto pastrami salami chicken pig boudin. Ball tip beef ribs picanha salami biltong fatback kevin jowl pork leberkas.</p>
+
+
+          <p data-height="364" data-theme-id="0" data-slug-hash="adZdNo" data-default-tab="css,result" data-user="hexagoncircle" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/hexagoncircle/pen/adZdNo/">Bacon Bacon Bacon Bacon</a> by Ryan Mulligan (<a href="http://codepen.io/hexagoncircle">@hexagoncircle</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+          <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+
+  <p>Bacon ipsum dolor amet capicola beef ribs shoulder turkey, andouille beef swine <strong>drumstick</strong> chuck ball tip ham hock tri-tip ham rump corned beef. Pork chop chuck tenderloin spare ribs ribeye flank. Drumstick sausage doner, <i><b>porchetta tail</b></i> prosciutto pastrami salami chicken pig boudin. Ball tip beef ribs picanha salami biltong fatback kevin jowl pork leberkas.</p>
 
  <h2><b>More Meat</b></h2>          
 

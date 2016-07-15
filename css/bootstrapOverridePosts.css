@@ -1,7 +1,7 @@
 body {
    background-color: black;
 }
-body .post{
+body .post, .pageNav{
   font-family: "Courier New", Courier, monospace;
   font-size: 20px;
 }
@@ -11,7 +11,7 @@ body .post{
     padding-top: 200px;
     margin-top: -200px;
     padding-bottom: 200px;
-    margin-bottom: -100px;
+    margin-bottom: -160px;
 }
 .post a, .post a:active{
     text-decoration: underline;
@@ -28,4 +28,11 @@ body .post{
     padding-left: 20px;
     background-color: black;
     color: grey;
+}
+
+.pageNav a, .pageNav a:active{
+  font-family: "", sans-serif, monospace;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
 }

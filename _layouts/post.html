@@ -53,8 +53,23 @@
 
      {{content}}
 
-
     <!-- Main Content -->
+
+    <!-- Posts Pagination -->
+
+    <nav>
+      <ul class="pager pageNav">
+        {% if page.previous.url %}
+          <li class="previous"><a href="{{page.previous.url}}"><span aria-hidden="true"><i class="fa fa-chevron-left fa-lg"></i></span>&nbsp;&nbsp;{{page.previous.title}}</a></li>
+        {% endif %}
+        {% if page.next.url %}
+        <li class="next"><a href="{{page.next.url}}">{{page.next.title}}&nbsp;&nbsp;<span aria-hidden="true"><i class="fa fa-chevron-right fa-lg"></i></span></a></li>
+        {% endif %}
+      </ul>
+    </nav>
+
+
+    <!-- Posts Pagination -->
 
 
       {% include foot.html %}
