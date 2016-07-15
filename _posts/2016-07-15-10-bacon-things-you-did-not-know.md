@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bacon Wrapped Shrimp
+title: 10 Things About Bacon They don't want you to know!
 excerpt: Jerky ham hock ball tip fatback kielbasa pancetta doner meatloaf pork loin frankfurter short ribs shank.
 ---
 

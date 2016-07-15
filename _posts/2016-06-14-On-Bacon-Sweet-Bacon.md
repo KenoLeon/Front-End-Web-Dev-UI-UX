@@ -1,41 +1,6 @@
 ---
-layout: default
+layout: post
 title: On Bacon Sweet Bacon
-style: |
-  /* You can put any CSS here */
-  /* Just indent it with two spaces */
-  /* And don't forget the | after "style: " */
-  body {     
-     background-color: black;     
-  }
-  body .post{
-    font-family: "Courier New", Courier, monospace;
-    font-size: 20px;
-  }
-  .post {
-      min-height:1000px;
-      background-color: white;      
-      padding-top: 200px;
-      margin-top: -200px;
-      padding-bottom: 200px;
-      margin-bottom: -100px;
-  }
-  .post a, .post a:active{
-      text-decoration: underline;
-      color: black;
-  }
-  .post a:hover{
-      color: grey;
-  }
-  .post mark{
-      background-color: lightgrey;
-      color:black;
-  }
-  .post pre{
-      padding-left: 20px;
-      background-color: black;
-      color: grey;
-  }
 excerpt: Bacon ipsum dolor amet tri-tip bresaola beef ribs, sausage landjaeger kevin doner tongue ham swine drumstick short ribs short loin.
 ---
 
