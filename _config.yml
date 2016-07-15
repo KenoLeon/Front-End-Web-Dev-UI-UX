@@ -11,3 +11,4 @@ highlighter: rouge
 # Build settings
 exclude:
   - README.md
+baseurl: /Front-End-Web-Dev-UI-UX
