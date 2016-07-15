@@ -10,6 +10,12 @@
 <!-- Google Fonts -->
 <link href='https://fonts.googleapis.com/css?family=Comfortaa|Great+Vibes|Merriweather:400,400italic,700' rel='stylesheet' type='text/css'>
 
+{% if page.style %}
+ <style type="text/css">
+     {{ page.style }}
+ </style>
+{% endif %}
+
 <!-- <link rel="icon" href="favicon.png"> -->
 <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
 
