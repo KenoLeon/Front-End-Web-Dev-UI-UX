@@ -1,7 +1,7 @@
 # Site settings
 title: Front End Development, UI, UX & Design - k3no.com
 description: Front End Development, UI, UX & Design Posts - Eugenio N. Leon - Santa Barbara California - Keno -  www.k3no.com
-#baseurl: /Front-End-Web-Dev-UI-UX # the subpath of your site, e.g. /blog
+baseurl: /Front-End-Web-Dev-UI-UX 
 #url: "https://kenoleon.github.io" # the base hostname & protocol for your site
 
 # Markdown settings
@@ -11,4 +11,3 @@ highlighter: rouge
 # Build settings
 exclude:
   - README.md
-baseurl: /Front-End-Web-Dev-UI-UX
