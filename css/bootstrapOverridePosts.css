@@ -11,7 +11,6 @@ body .post, .pageNav{
     padding-top: 200px;
     margin-top: -200px;
     padding-bottom: 200px;
-    margin-bottom: -160px;
 }
 .post a, .post a:active{
     text-decoration: underline;
@@ -30,9 +29,25 @@ body .post, .pageNav{
     color: grey;
 }
 
+ .post hr {
+   width: 60%;
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 2px solid dimgrey;
+    padding: 0;
+}
+
+   .postIndex{
+    display: inline-block;
+    float: left;
+    margin-right: 6px;
+  }
+
 .pageNav a, .pageNav a:active{
   font-family: "", sans-serif, monospace;
   font-size: 18px;
   text-decoration: none;
   color: black;
+  margin-top: 10px;
 }

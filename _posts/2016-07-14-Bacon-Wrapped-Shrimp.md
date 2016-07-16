@@ -4,7 +4,9 @@ title: Bacon Wrapped Shrimp
 excerpt: Jerky ham hock ball tip fatback kielbasa pancetta doner meatloaf pork loin frankfurter short ribs shank.
 ---
 
+
 <div class="row post">
+<hr />
         <div class ="col-sm-1"></div>
         <div class ="col-sm-10">
           <br />

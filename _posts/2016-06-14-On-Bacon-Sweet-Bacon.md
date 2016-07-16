@@ -4,8 +4,8 @@ title: On Bacon Sweet Bacon
 excerpt: Bacon ipsum dolor amet tri-tip bresaola beef ribs, sausage landjaeger kevin doner tongue ham swine drumstick short ribs short loin.
 ---
 
-
 <div class="row post">
+<hr />
         <div class ="col-sm-1"></div>
         <div class ="col-sm-10">
           <br />
