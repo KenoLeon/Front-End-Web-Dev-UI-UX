@@ -50,18 +50,32 @@
 
     <div class="row spacer"></div>
 
+    <div class="row post">
+    <hr />
+            <div class ="col-sm-1"></div>
+            <div class ="col-sm-10">
+
+              <br />
+              <br />
+              <h1><b>{{page.title}}</b></h1>
+              <br/>
+
     <!-- Main Content -->
 
      {{content}}
 
     <!-- Main Content -->
 
+  </div>
+    <div class ="col-sm-1"></div>
+  </div>
+
     <!-- Posts Pagination -->
 
     <nav>
       <ul class="pager pageNav">
 
-  <li class="previous postIndex"><a href="https://kenoleon.github.io/Front-End-Web-Dev-UI-UX/"><span aria-hidden="true"><i class="fa fa-file-text-o fa-lg"></i></span>&nbsp;&nbsp;Index</a></li>
+  <li class="previous postIndex"><a href="{{ site.baseurl }}/index.html"><span aria-hidden="true"><i class="fa fa-file-text-o fa-lg"></i></span>&nbsp;&nbsp;Index</a></li>
 
         {% if page.previous.url %}
           <li class="previous"><a href="{{ site.baseurl }}{{page.previous.url}}"><span aria-hidden="true"><i class="fa fa-chevron-left fa-lg"></i></span>&nbsp;&nbsp;{{page.previous.title}}</a></li>

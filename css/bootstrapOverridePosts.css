@@ -5,6 +5,11 @@ body .post, .pageNav{
   font-family: "Courier New", Courier, monospace;
   font-size: 20px;
 }
+
+.wideImage h1, h2, h3, h4, h5, hr{
+  padding-left: 0px;
+}
+
 .post {
     min-height:1000px;
     background-color: white;
