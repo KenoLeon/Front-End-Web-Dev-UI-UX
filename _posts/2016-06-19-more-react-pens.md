@@ -37,7 +37,7 @@ Another common thing you might find yourself doing is Iterating and rendering th
 
 Now that we know how to iterate over an array, let's talk about data flow, specifically from child to parent, while a parent communicates through props to it's children, a child can communicate through a function passed as a prop as well:
 
-<p data-height="265" data-theme-id="0" data-slug-hash="vKLvPm" data-default-tab="js,result" data-user="k3no" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/k3no/pen/vKLvPm/">React  Data Flow</a> by Eugenio - Keno -  Leon (<a href="http://codepen.io/k3no">@k3no</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="340" data-theme-id="0" data-slug-hash="vKLvPm" data-default-tab="js,result" data-user="k3no" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/k3no/pen/vKLvPm/">React  Data Flow</a> by Eugenio - Keno -  Leon (<a href="http://codepen.io/k3no">@k3no</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 
