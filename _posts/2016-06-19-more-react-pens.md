@@ -8,7 +8,7 @@ excerpt: More beginner and not so beginner React.js code samples to continue lea
 
 This is an ongoing series on React, check out the first part here:
 
-[Getting Started with ReactJs]({% post_url 2016-06-06-getting-started-with-reactJs %})
+[Getting Started with ReactJs]({{ site.baseurl }}{% post_url 2016-06-06-getting-started-with-reactJs %})
 
 So let's get started where we left off, in this case we want to validate an input form before submitting the information upstate, a combination of state,form elements & bootstrap UI display takes care of the interaction, so in the end the component is fairly independent.
 
