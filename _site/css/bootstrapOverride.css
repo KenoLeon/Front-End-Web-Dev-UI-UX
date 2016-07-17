@@ -1,5 +1,7 @@
 /* Blog Section*/
 
+
+
 .postIndex{
   font-family: "", sans-serif, monospace;
   font-size: 18px;
@@ -20,7 +22,8 @@
    font-style: italic;
 }
 
-list-group-item-heading{
+a.list-group-item .list-group-item-heading{
+  color: rgb(110, 110, 110);
 }
 
 /* Blog Section*/
