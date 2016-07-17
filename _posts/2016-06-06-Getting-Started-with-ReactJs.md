@@ -2,6 +2,7 @@
 layout: post
 title: Getting Started with React.js
 excerpt: Follow me as I learn React.js with a series of live code examples.
+permalink: /Getting-Started-With-ReactJs
 ---
 
 <h2><b>Preface</b></h2>
