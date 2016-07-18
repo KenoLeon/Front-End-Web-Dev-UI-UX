@@ -56,3 +56,9 @@ body .post, .pageNav{
   color: black;
   margin-top: 10px;
 }
+
+.post blockquote{
+  background-color: rgb(142,165,184);
+  border-radius: 6px !important;
+  color: white;
+}
