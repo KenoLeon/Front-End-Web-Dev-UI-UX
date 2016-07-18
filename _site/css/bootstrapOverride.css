@@ -20,13 +20,16 @@
    font-style: italic;
 }
 
-a.list-group-item .list-group-item-heading{
+.blogTitle{
   color: rgb(110, 110, 110);
 }
 
+a.list-group-item .list-group-item-heading{
+  /*color: rgb(110, 110, 110);*/
+}
+
+
 /* Blog Section*/
-
-
 
 
 /* Start Fonts*/
