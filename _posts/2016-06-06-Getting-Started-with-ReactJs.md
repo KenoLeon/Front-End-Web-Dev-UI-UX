@@ -5,7 +5,7 @@ excerpt: Follow me as I learn React.js with a series of live code examples.
 permalink: /Getting-Started-With-ReactJs
 ---
 
-<h2><b>Preface </b></h2>
+<h2><b>Preface</b></h2>
 
 <p>Getting Started in <strong>React.js</strong>, or any other javascript library or framework usually takes me a few hours or days of configuring my environment (downloading/updating node,npm,webpack,etc,etc) , while it is eventually necessary to build apps for deployment , I usually get a better feel and experience through writing code and seeing what happens, consulting the documentation and the occasional youtube tutorial along the way. </p>
 
