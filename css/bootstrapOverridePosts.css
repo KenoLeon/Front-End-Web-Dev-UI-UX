@@ -3,7 +3,7 @@ body {
 }
 body .post, .pageNav{
   font-family: "Courier New", Courier, monospace;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .wideImage h1, h2, h3, h4, h5, hr{
@@ -19,7 +19,9 @@ body .post, .pageNav{
 }
 .post a, .post a:active{
     text-decoration: underline;
-    color: black;
+    /*color: black;*/
+    color:rgb(58, 104, 175);
+    font-weight: 600;
 }
 .post a:hover{
     color: grey;
@@ -62,3 +64,5 @@ body .post, .pageNav{
   border-radius: 6px !important;
   color: white;
 }
+
+.hl { background-color: rgba(255, 255, 0, 0.3); }
