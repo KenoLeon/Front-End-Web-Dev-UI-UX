@@ -1,0 +1,115 @@
+
+.highlight code, .highlight pre{color:#fdce93;background-color:black;
+font-size: 14px}
+.highlight .hll{background-color:#222}
+.highlight .c{color:#7f9f7f}
+.highlight .err{color:#e37170;background-color:#3d3535}
+.highlight .g{color:#7f9f7f}
+.highlight .k{color:#f0dfaf}
+.highlight .l{color:#ccc}
+.highlight .n{color:#dcdccc}
+.highlight .o{color:#f0efd0}
+.highlight .x{color:#ccc}
+.highlight .p{color:#41706f}
+.highlight .cm{color:#7f9f7f}
+.highlight .cp{color:#7f9f7f}
+.highlight .c1{color:#7f9f7f}
+.highlight .cs{color:#cd0000;font-weight:bold}
+.highlight .gd{color:#cd0000}
+.highlight .ge{color:#ccc;font-style:italic}
+.highlight .gr{color:red}
+.highlight .gh{color:#dcdccc;font-weight:bold}
+.highlight .gi{color:#00cd00}
+.highlight .go{color:gray}
+.highlight .gp{color:#dcdccc;font-weight:bold}
+.highlight .gs{color:#ccc;font-weight:bold}
+.highlight .gu{color:purple;font-weight:bold}
+.highlight .gt{color:#0040D0}
+.highlight .kc{color:#dca3a3}
+.highlight .kd{color:#ffff86}
+.highlight .kn{color:#dfaf8f;font-weight:bold}
+.highlight .kp{color:#cdcf99}
+.highlight .kr{color:#cdcd00}
+.highlight .kt{color:#00cd00}
+.highlight .ld{color:#cc9393}
+.highlight .m{color:#8cd0d3}
+.highlight .s{color:#cc9393}
+.highlight .na{color:#9ac39f}
+.highlight .nb{color:#efef8f}
+.highlight .nc{color:#efef8f}
+.highlight .no{color:#ccc}
+.highlight .nd{color:#ccc}
+.highlight .ni{color:#c28182}
+.highlight .ne{color:#c3bf9f;font-weight:bold}
+.highlight .nf{color:#efef8f}
+.highlight .nl{color:#ccc}
+.highlight .nn{color:#8fbede}
+.highlight .nx{color:#ccc}
+.highlight .py{color:#ccc}
+.highlight .nt{color:#9ac39f}
+.highlight .nv{color:#dcdccc}
+.highlight .ow{color:#f0efd0}
+.highlight .w{color:#ccc}
+.highlight .mf{color:#8cd0d3}
+.highlight .mh{color:#8cd0d3}
+.highlight .mi{color:#8cd0d3}
+.highlight .mo{color:#8cd0d3}
+.highlight .sb{color:#cc9393}
+.highlight .sc{color:#cc9393}
+.highlight .sd{color:#cc9393}
+.highlight .s2{color:#cc9393}
+.highlight .se{color:#cc9393}
+.highlight .sh{color:#cc9393}
+.highlight .si{color:#cc9393}
+.highlight .sx{color:#cc9393}
+.highlight .sr{color:#cc9393}
+.highlight .s1{color:#cc9393}
+.highlight .ss{color:#cc9393}
+.highlight .bp{color:#efef8f}
+.highlight .vc{color:#efef8f}
+.highlight .vg{color:#dcdccc}
+.highlight .vi{color:#ffffc7}
+.highlight .il{color:#8cd0d3}
+
+kbd {
+  color: #444444;
+  font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  line-height: 1em;
+  text-shadow: 0 1px 0 #fff;
+  display: inline;
+  padding: .3em .55em;
+  -webkit-border-radius: 6px !important;
+  -moz-border-radius: 6px !important;
+  border-radius: 6px !important;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  border: 1px solid #bbb;
+  background-color: #f7f7f7;
+  background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(rgba(0, 0, 0, 0.1)), to(rgba(0, 0, 0, 0)));
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+  background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+  background-image: linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1a000000', endColorstr='#00000000', GradientType=0);
+  box-shadow: 0px 2px 0 #bbbbbb, 0 3px 1px #999999, 0 3px 0 #bbbbbb, inset 0 1px 1px #ffffff, inset 0 -1px 3px #cccccc;
+}
+
+kbd {
+  color: #eeeeee;
+  text-shadow: 0 -1px 0 #000000;
+  border-color: #000;
+  background-color: #4d4c4c;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(rgba(0, 0, 0, 0.5)), color-stop(80%, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0)));
+  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0));
+  background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0));
+  background-image: -o-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0));
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0));
+  background-repeat: no-repeat;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=0);
+  box-shadow: 0px 2px 0 #000000, 0 3px 1px #999999, inset 0 1px 1px #aaaaaa, inset 0 -1px 3px #272727;
+}

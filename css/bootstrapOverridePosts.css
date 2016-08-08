@@ -34,6 +34,9 @@ body .post, .pageNav{
     padding-left: 20px;
     background-color: black;
     color: grey;
+    -webkit-border-radius: 6px !important;
+    -moz-border-radius: 6px !important;
+    border-radius: 6px !important;
 }
 
  .post hr {
