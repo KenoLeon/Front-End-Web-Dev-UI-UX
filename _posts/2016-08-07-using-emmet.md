@@ -124,7 +124,7 @@ ul>li*5
 
 ### Practice:
 
-Here's a handy [pen](http://codepen.io/k3no/pen/QEkVJx){:target="_blank"} with a few more commands for you to practice your new found Emmet powers at your pace:
+Here's a handy [pen](https://codepen.io/k3no/pen/QEkVJx){:target="_blank"} with a few more commands for you to practice your new found Emmet powers at your pace:
 
 <p data-height="680" data-theme-id="0" data-slug-hash="QEkVJx" data-default-tab="result" data-user="k3no" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/k3no/pen/QEkVJx/">Emmet Practice Dojo</a> by Eugenio - Keno -  Leon (<a href="http://codepen.io/k3no">@k3no</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
