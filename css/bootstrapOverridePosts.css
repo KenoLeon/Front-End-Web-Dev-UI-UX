@@ -2,8 +2,13 @@ body {
    background-color: black;
 }
 body .post, .pageNav{
-  font-family: "Courier New", Courier, monospace;
+  font-family: 'Merriweather', serif;
   font-size: 18px;
+}
+
+p{
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 
 .wideImage h1, h2, h3, h4, h5, hr{
