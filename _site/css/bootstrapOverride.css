@@ -3,7 +3,7 @@
 .postIndex{
      font-family: 'Merriweather', serif;
   font-size: 18px;
-
+  box-shadow: 0 2rem 4rem -1rem rgba(0, 0, 0, 0.2);
 }
 .postIndex .row {
   min-height:1000px;
@@ -14,15 +14,21 @@
   color: black;
 }
 
+.postIndex .list-group-item{
+  /*max-width: 800px;*/
+  min-height: 120px;
+}
+
 .postIndex .list-group-item-text{
       font-family: 'Merriweather', serif;
    font-size: 19px;
    font-style: italic;
    text-indent: 20px;
+
 }
 
 .list-group h4{
-     font-family: 'Merriweather', serif; 
+     font-family: 'Merriweather', serif;
   font-size: 16px;
   color: rgb(110, 110, 110);
 }
