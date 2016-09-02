@@ -8,7 +8,7 @@ permalink: /a-look-at-chartist
 <h1>CHARTIST.JS</h1>
 ![chartist]{{ site.url }}(assets/images/chartist-guy.gif){:class="img-responsive"}
 
-I recently wrote about [chartJS (go check it out !)](/getting-started-with-chartjs) a pretty cool javascript charting library; I would like to explore a few more charting libraries and I've had my eye on chartist.js for a while.
+I recently wrote about [chartJS (go check it out !)]({{ site.baseurl }}/getting-started-with-chartjs) a pretty cool javascript charting library; I would like to explore a few more charting libraries and I've had my eye on chartist.js for a while.
 
 So come along as we learn how to make charts with [CHARTIST.JS](https://gionkunz.github.io/chartist-js/){:target="_blank"}
 
