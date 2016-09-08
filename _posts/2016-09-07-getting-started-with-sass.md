@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A gentle introduction to Sass
-excerpt: Come explore what Sass - a popular Css preprocessor can do for your Css with a gentle introduction and code samples.
+excerpt: Come explore what Sass - a popular Css preprocessor -  can do for your Css with a gentle introduction and code samples.
 permalink: /gentle-Sass
 ---
 
