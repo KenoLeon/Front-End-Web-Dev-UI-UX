@@ -9,7 +9,7 @@ permalink: /chart-libraries-d3js
 
 <h3 class="fancy">Preface</h3>
 
-<a href="https://d3js.org" target="_blank">D3.js</a> has always been a bit of a mistery to me, is it a chart library or something else ? join me in finding out with a few code samples !
+<a href="https://d3js.org" target="_blank">D3.js</a> has always been a bit of a mystery to me, is it a chart library or something else ? join me in finding out with a few code samples !
 
 <div class="challenge"> <b>Challenges: </b> I gave myself little challenges you are welcome to try if you want to recreate my own learning curve.</div>
 
@@ -51,7 +51,7 @@ I tried making a regular bar chart, but after a few tries it became obvious I ha
 <p data-height="543" data-theme-id="0" data-slug-hash="XjKOdN" data-default-tab="js,result" data-user="k3no" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/k3no/pen/XjKOdN/">D3.js Basics Binding-Appending</a> by Eugenio - Keno -  Leon (<a href="http://codepen.io/k3no">@k3no</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Ahh, somehow clearer now( check the heavily anotated example) ; You start by creating or importing a dataset ( <span class="hl">your arbitrary data</span>) , then you select and/or create DOM elements to which you attach said data, <span class="hl">notice the dot notation</span> (short and long) which chains methods,or you could use a more verbose syntax, those seem to be the bare basics.  
+Ahh, somehow clearer now( check the heavily annotated example) ; You start by creating or importing a dataset ( <span class="hl">your arbitrary data</span>) , then you select and/or create DOM elements to which you attach said data, <span class="hl">notice the dot notation</span> (short and long) which chains methods,or you could use a more verbose syntax, those seem to be the bare basics.  
 
 <h3 class="fancy">D3 + SVG</h3>
 
@@ -87,7 +87,7 @@ There is still some ground to cover before we make a simple ( but complete ) bar
 <p data-height="484" data-theme-id="0" data-slug-hash="EggVBJ" data-default-tab="js,result" data-user="k3no" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/k3no/pen/EggVBJ/">D3.js load & parse data</a> by Eugenio - Keno -  Leon (<a href="http://codepen.io/k3no">@k3no</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-This was a little madening because most of the examples I could find use the old syntax (read the above note), in escence after importing your data you might want to add one of the included parsers and formaters, it's actually quite simple if you follow their <a href="https://github.com/d3/d3-time-format#timeParse" target="_blank">API documentation</a>
+This was a little maddening because most of the examples I could find use the old syntax (read the above note), in essence after importing your data you might want to add one of the included parsers and formatters, it's actually quite simple if you follow their <a href="https://github.com/d3/d3-time-format#timeParse" target="_blank">API documentation</a>
 
 
 <h3 class="fancy">Axes & Scales</h3>
@@ -134,7 +134,7 @@ And what if we wanted to make the same chart as a bar chart ?
 <p data-height="500" data-theme-id="0" data-slug-hash="wzgvNG" data-default-tab="result" data-user="k3no" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/k3no/pen/wzgvNG/">D3.js Bar Chart</a> by Eugenio - Keno -  Leon (<a href="http://codepen.io/k3no">@k3no</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-It is unfortunately not as simple as with other libraries, but the gist is that you need to change your domains,ranges ( for scales and proper display of information) and the html elements to represent your data, in this case svg rectangles. Aditionally, you might need to use some extra functions provided by d3.js ( in this case scaleband and bandwidth) to help you finish the chart.
+It is unfortunately not as simple as with other libraries, but the gist is that you need to change your domains,ranges ( for scales and proper display of information) and the html elements to represent your data, in this case svg rectangles. Additionally, you might need to use some extra functions provided by d3.js ( in this case scaleband and bandwidth) to help you finish the chart.
 
 <div class="challenge"><b>Things I did not cover/further challenges:</b> This is just a very basic overview of D3.js; there are literally a thousand things I didn't cover, I might do another post, but in the mean time you could look into different types of charts, multiple series, responsive charts and animations</div>
 
