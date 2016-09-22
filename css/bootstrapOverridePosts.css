@@ -97,4 +97,91 @@ display: block;
   display: block;
 }
 
+
+
+.note{
+  border-radius: 5px;
+	background-color: rgba(255,255,0,0.2);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  padding:10px;
+  margin:10px;
+  display: block;
+}
+
 .hl { background-color: rgba(255, 255, 0, 0.3); }
+
+
+.fancy{
+/*   font-family: 'Oswald', sans-serif;  */
+  font-size:30px;
+  text-shadow: 0 -1px 0 #333,
+    0 1px 2px rgba(0,0,0,.4),
+    0 1px 3px rgba(0,0,0,.15),
+    0 1px 3px rgba(0,0,0,.18),
+    0 5px 3px rgba(0,0,0,.21);
+	  color: black;
+}
+
+.speechBubble {
+  -webkit-filter: drop-shadow(-1px -1px 2px rgba(0, 0, 0, 0.1)) drop-shadow(1px 2px 2px rgba(0, 0, 0, 0.15));
+          filter: drop-shadow(-1px -1px 2px rgba(0, 0, 0, 0.1)) drop-shadow(1px 2px 2px rgba(0, 0, 0, 0.15));
+  margin: 1rem;
+  margin-bottom: 40px;
+  padding: 1rem 1.5rem;
+  position: relative;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  background: rgba(135,206,250,0.6);
+  color: black;
+  width:80%;
+  margin-left:10%;
+}
+.speechBubble::before {
+  border: 12.5px solid transparent;
+  border-top: 12.5px solid rgba(135,206,250,0.6);
+  border-bottom: 0;
+  height: 0;
+  width: 0;
+  border-top-width: 25px;
+  content: '';
+  display: block;
+  position: absolute;
+  left: 3rem;
+  bottom: -25px;
+  -webkit-transform-origin: center;
+          transform-origin: center;
+  -webkit-transform: rotate(90deg) skew(-25deg) translateY(16.66667px);
+          transform: rotate(90deg) skew(-25deg) translateY(16.66667px);
+
+}
+
+.quote{
+  border: solid 1px lightgrey;
+  border-radius: 5px;
+/*   font-family: Georgia, serif; */
+  font-size:18px;
+  font-weight:bold;
+/* 	background-color: rgba(0,0,0,0.08);   */
+	background-color: rgba(255,255,255,0.2);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  padding:20px;
+  margin:20px;
+  display: block;
+  width:70%;
+  margin:auto;
+}
+
+.qBefore{
+  font-family: Georgia;
+  font-size: 3em;
+  color: grey;
+  line-height:40px;
+}
+
+.qAfter{
+  font-family: Georgia;
+  font-size: 3em;
+  color: grey;
+  display:block;
+  float:right;
+}
