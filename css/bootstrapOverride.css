@@ -48,7 +48,6 @@ a.list-group-item .list-group-item-heading{
 }
 
 .list-group-item img{
-  margin:auto;
   float: right;
   display: inline-block;
   margin-left: 40px;
