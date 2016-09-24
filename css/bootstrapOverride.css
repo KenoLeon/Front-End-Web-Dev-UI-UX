@@ -61,10 +61,18 @@ a.list-group-item .list-group-item-heading{
 /* Start Fonts*/
 
 .navbar-brand{
-  font-family: 'Comfortaa', cursive !important;
+    font-family: 'Comfortaa', cursive !important;
   font-size: 32px;
 }
 
+.navbar-brand{
+letter-spacing: .30em;
+text-shadow: 1px -1px 0px whitesmoke,
+              -1px 2px 1px #8b8a89,
+              -2px 3px 1px #b2b1b0,
+              -3px 4px 1px #d8d6d5,
+              -4px 5px 1px #e4e3e2;
+}
 
 .welcome{
 font-family: 'Merriweather', serif;
@@ -425,7 +433,7 @@ padding-bottom: 0px !important;
   border-color: #ffffff !important;
 }
 .navbar-default .navbar-brand {
-  color: #000000 !important;
+  color: #3e3e3e  !important;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
   color: #5a5a5a !important;
