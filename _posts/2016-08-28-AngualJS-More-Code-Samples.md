@@ -3,6 +3,7 @@ layout: post
 title: More AngularJS introductory code samples .
 excerpt: This is the second in an introductory series of AngularJS code samples, jump in !
 permalink: /more-angularJS-code-samples
+smlogo: Angular.png
 ---
 
 

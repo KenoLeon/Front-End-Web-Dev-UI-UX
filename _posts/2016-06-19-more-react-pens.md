@@ -3,6 +3,7 @@ layout: post
 title: More React.js
 excerpt: More beginner and not so beginner React.js code samples to continue learning.
 permalink: /More-ReactJs-Pens
+smlogo: React.png
 ---
 
 <h2><b>Preface</b></h2>

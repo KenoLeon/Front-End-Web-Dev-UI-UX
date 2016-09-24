@@ -3,6 +3,7 @@ layout: post
 title: Getting started with SVG graphics
 excerpt: Learn SVG (Scalable Vector Graphics) with a few live code samples.
 permalink: /Getting-Started-With-SVG
+smlogo: Svg.png
 ---
 
 <h2><b>Preface</b></h2>

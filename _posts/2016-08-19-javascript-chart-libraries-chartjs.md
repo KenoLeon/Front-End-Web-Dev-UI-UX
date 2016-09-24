@@ -3,6 +3,7 @@ layout: post
 title: Exploring Javascript Chart Libraries, Getting started with Chart.js.
 excerpt: Come along as we learn to make some charts with chart.js.
 permalink: /getting-started-with-chartjs
+smlogo: Chartjs.png
 ---
 
 <div class="text-center"><img src="http://www.chartjs.org/img/chartjs-logo.svg"></div>

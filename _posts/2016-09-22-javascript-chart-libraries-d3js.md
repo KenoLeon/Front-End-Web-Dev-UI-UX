@@ -3,6 +3,7 @@ layout: post
 title: 'A look at Javascript Chart libraries,the big one D3.js'
 excerpt: D3.js is probably the best known Javascript Chart library, come check out the basics of working with the beast !
 permalink: /chart-libraries-d3js
+smlogo: D3.png
 ---
 
 <div class="text-center"><img src={{ site.url }}"assets/images/d3Logo.png" alt="D3.js"></div>

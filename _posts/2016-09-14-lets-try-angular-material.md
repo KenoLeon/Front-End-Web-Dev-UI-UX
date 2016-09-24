@@ -3,6 +3,7 @@ layout: post
 title: Let's try Angular Material.
 excerpt: Angular Material is a cool Front End Library using Material design for the Angular framework,let's check the basics...
 permalink: /lets-try-Angular-Material
+smlogo: Angular.png
 ---
 
 

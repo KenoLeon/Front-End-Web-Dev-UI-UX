@@ -3,6 +3,7 @@ layout: post
 title: Introduction to Emmet
 excerpt: Emmet is a real time saver when developing web pages, learn about it in this gentle Introduction
 permalink: /introduction-to-emmet
+smlogo: Emmet.png
 ---
 
 

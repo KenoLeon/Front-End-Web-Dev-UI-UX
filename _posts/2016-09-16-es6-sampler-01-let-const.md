@@ -3,6 +3,7 @@ layout: post
 title: 'ES6 Sampler #1 (let & const).'
 excerpt: Let's sample what es6 has to offer with code samples and comparisons to es5, don't be shy, take a bite !
 permalink: /es6-let-const
+smlogo: Js.png
 ---
 
 <div class="text-center"><img src={{ site.url }}"assets/images/JSLogo.jpg" alt="JavaScript"></div>

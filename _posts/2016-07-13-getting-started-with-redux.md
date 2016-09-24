@@ -3,6 +3,7 @@ layout: post
 title: Getting started with Redux
 excerpt: I investigate what Redux is with a series of easily digested code samples come along...
 permalink: /getting-started-with-redux
+smlogo: Redux.png
 ---
 
 <h2><b>What is Redux ?</b></h2>

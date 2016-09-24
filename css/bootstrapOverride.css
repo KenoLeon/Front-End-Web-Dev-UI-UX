@@ -47,6 +47,14 @@ a.list-group-item .list-group-item-heading{
   /*color: rgb(110, 110, 110);*/
 }
 
+.list-group-item img{
+  margin:auto;
+  float: right;
+  display: inline-block;
+  margin-left: 40px;
+  margin-right: 20px;
+/*   background-color: blue; */
+}
 
 /* Blog Section*/
 

@@ -3,6 +3,7 @@ layout: post
 title: A look at Chartist.js with sample code
 excerpt: A quick introduction to Chartist.js a SVG javascript chart library, come do some charts !
 permalink: /a-look-at-chartist
+smlogo: chartist.png
 ---
 
 <h1>CHARTIST.JS</h1>

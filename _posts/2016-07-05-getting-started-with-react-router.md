@@ -3,6 +3,7 @@ layout: post
 title: Getting started with React Router
 excerpt: Come along and learn React Router with simple code examples.
 permalink: /getting-started-with-react-router
+smlogo: ReactRouter.png
 ---
 
 <h2><b>Preface</b></h2>

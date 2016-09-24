@@ -3,6 +3,7 @@ layout: post
 title: The Jekyll Experience
 excerpt: My experience building a small blog ( this one) with a static site generator called Jekyll
 permalink: /the-jekyll-experience
+smlogo: jekyll.png
 ---
 
 <h2><b>Preface</b></h2>
