@@ -51,6 +51,8 @@ There are a couple ways of using arrow functions :
 <p data-height="470" data-theme-id="0" data-slug-hash="gwmjjq" data-default-tab="result" data-user="k3no" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/k3no/pen/gwmjjq/">ES6 Sampler - Fat Arrows pt2</a> by Eugenio - Keno -  Leon (<a href="http://codepen.io/k3no">@k3no</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
+Anonymous functions (nameless functions for instance) are everywhere in javascript, with the arrow syntax you can ommit the word function.
+
 <div class="note"> <b>Note: </b>Parentheses are optional when there's only one parameter:
  <ul>
 <li><b>(singleParam) => { statements }</b></li>
@@ -58,12 +60,10 @@ There are a couple ways of using arrow functions :
 </ul>
 </div>
 
-Anonymous functions (nameless functions for instance) are everywhere in javascript, with the arrow syntax you can ommit the word function.
+Another very common instance, is the use of functions as arguments for other functions, with arrow functions the syntax can become somehow clearer.
 
 <p data-height="560" data-theme-id="0" data-slug-hash="EgWzAj" data-default-tab="result" data-user="k3no" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/k3no/pen/EgWzAj/">ES6 Sampler - Fat Arrows pt3</a> by Eugenio - Keno -  Leon (<a href="http://codepen.io/k3no">@k3no</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
-Another very common instance, is the use of functions as arguments for other functions, with arrow functions the syntax can become somehow clearer.
 
 <b>.this and scope with arrow functions</b>
 
