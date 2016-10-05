@@ -6,7 +6,7 @@ permalink: /chart-libraries-d3js
 smlogo: D3.png
 ---
 
-<div class="text-center"><img src={{ site.url }}"assets/images/d3Logo.png" alt="D3.js"></div>
+<div class="text-center"><img src="assets/images/d3Logo.png" alt="D3.js"></div>
 
 <h3 class="fancy">Preface</h3>
 

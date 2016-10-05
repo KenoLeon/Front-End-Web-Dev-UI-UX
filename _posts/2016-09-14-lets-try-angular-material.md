@@ -8,7 +8,7 @@ smlogo: Angular.png
 
 
 
-![Angular Material]{{ site.url }}(assets/images/AngularMaterial.jpg){:class="img-responsive"}
+![Angular Material](assets/images/AngularMaterial.jpg){:class="img-responsive"}
 
 
 <h3>Preface:</h3>

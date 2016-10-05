@@ -8,8 +8,7 @@ smlogo: Sass.png
 
 
 
-![Sass]{{ site.url }}(assets/images/sassLogo.png){:class="img-responsive"}
-
+![Sass](assets/images/sassLogo.png){:class="img-responsive"}
 
 <h3>Preface:</h3>
 
