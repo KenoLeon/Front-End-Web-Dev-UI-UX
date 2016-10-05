@@ -6,7 +6,7 @@ permalink: /es6-let-const
 smlogo: Js.png
 ---
 
-<div class="text-center"><img src="/assets/images/JSLogo.jpg" alt="JavaScript"></div>
+<div class="text-center"><img src="assets/images/JSLogo.jpg" alt="JavaScript"></div>
 
 <h3>Preface</h3>
 

@@ -6,7 +6,8 @@ permalink: /es6-fat-arrows
 smlogo: Js.png
 ---
 
-<div class="text-center"><img src={{ site.url }}"assets/images/JSLogo.jpg" alt="JavaScript"></div>
+<div class="text-center"><img src="assets/images/JSLogo.jpg" alt="JavaScript"></div>
+
 
 <h3 class="fancy">Preface</h3>
 
