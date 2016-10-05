@@ -6,10 +6,9 @@ permalink: /lets-try-Angular-Material
 smlogo: Angular.png
 ---
 
-
-
-![Angular Material](assets/images/AngularMaterial.jpg){:class="img-responsive"}
-
+<div class="text-center">
+<img src="assets/images/AngularMaterial.jpg" alt="Angular Material" class="img-responsive">
+</div>
 
 <h3>Preface:</h3>
 
