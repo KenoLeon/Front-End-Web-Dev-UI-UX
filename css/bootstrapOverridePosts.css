@@ -88,6 +88,19 @@ display: block;
   color:darkgreen;
 }
 
+.codingTest{
+	 border-radius: 5px;
+	background-color: rgba(223, 223, 223, 0.37);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  padding:10px;
+  margin:20px;
+  display: block;
+}
+
+.codingTest b {
+  color:rgb(255, 141, 5);;
+}
+
 .Note{
   border-radius: 5px !important;
 	background-color: rgba(255,255,0,0.2);
