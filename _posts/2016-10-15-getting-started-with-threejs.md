@@ -2,7 +2,7 @@
 layout: post
 title: '3D with Three.js '
 excerpt: Three.js is the Current javascript library for 3D on the web, let's see how it works with some code samples...
-permalink: /es6-classes
+permalink: /threejs
 smlogo: threejssm.jpg
 ---
 
