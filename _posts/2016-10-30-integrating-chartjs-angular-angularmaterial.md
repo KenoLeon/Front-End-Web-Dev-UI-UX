@@ -3,10 +3,10 @@ layout: post
 title: 'Integrating Angular ChartJs and Angular Material'
 excerpt: A post documenting how to build a small warehouse chart app with Angular, chart.js and Angular Material, code samples from the ground up.
 permalink: /integrating-angularjs-chartjs
-smlogo: AngularChartJs.png
+smlogo: AngularChartJS.png
 ---
 
-<div class="text-center"><img src="assets/images/AngularChartjs.jpg" alt="Angular Chart JS"></div>
+<div class="text-center"><img src="assets/images/AngularChartjs.png" alt="Angular Chart JS"></div>
 
 <h3 class="fancy">Preface</h3>
 
