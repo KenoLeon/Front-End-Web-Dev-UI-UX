@@ -78,7 +78,8 @@ It takes a little getting used to, but anything that returns something after som
 
 <h3 class="fancy">Conclusion</h3>
 
-Promises are are a more robust and complex alternative to using callbacks to control the flow of your program,they take some getting used to, but are somehow clearer at displaying and managing complex asynchronous operations.
+Promises seem to be a more robust and complex alternative to using callbacks to control the flow of your program,they take some getting used to, but are somehow clearer at displaying and managing complex asynchronous operations.
+
 
 <h3 class="fancy"> TL&#59;DR: </h3>
 
