@@ -83,7 +83,7 @@ Promises seem to be a more robust and complex alternative to using callbacks to 
 
 <h3 class="fancy"> TL&#59;DR: </h3>
 
-<b>Promises are a sophisticated way of handling asyn & sync computations and the flow of operations within your program.</b>
+<b>Promises are a sophisticated way of handling async & sync computations and the flow of operations within your program.</b>
 
 Best,
 
