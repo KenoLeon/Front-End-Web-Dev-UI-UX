@@ -121,6 +121,20 @@ display: block;
   display: block;
 }
 
+.step{
+	border-radius: 5px !important;
+	background-color: black;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  padding:10px;
+  margin:20px;
+  display: block;
+  color: orange;
+}
+
+.step b {
+  color:rgb(255,75,75);
+}
+
 .hl { background-color: rgba(255, 255, 0, 0.3); }
 
 
