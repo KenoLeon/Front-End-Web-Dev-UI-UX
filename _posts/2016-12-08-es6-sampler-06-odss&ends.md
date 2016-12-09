@@ -2,7 +2,7 @@
 layout: post
 title: 'ES6 Sampler #6 : Odds & Ends '
 excerpt: Final part of a series on the new features of Javascript's ES6 Some odds & ends.
-permalink: /es6-promises
+permalink: /es6-oddsends
 smlogo: Js.png
 ---
 
