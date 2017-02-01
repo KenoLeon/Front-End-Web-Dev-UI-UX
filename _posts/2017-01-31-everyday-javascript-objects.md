@@ -16,8 +16,9 @@ This is a new series on common Javascript problems, techniques and solutions I'v
 Good question, you can write a program without ever making an object, in my mind, objects make sense when you want to make a bunch of things and want each of them to be a <i>precious and unique snowflake</i>.
 
 <div class="note"><b>Note: </b> I will be using <a href="http://jdan.github.io/isomer/" target="_blank"><b>Isomer.js</b></a> ( a cool tinsy isometric graphics library to render cubes) along with <a href="http://www.createjs.com/easeljs" target="_blank"><b>easel.js</b></a> (a canvas management library used for hit detection) and some <a href="http://getbootstrap.com" target="_blank"><b>bootstrap</b></a> ( to center and align content) these are entirely optional for learning about objects, if you need an introduction to Isomer, here's a related post:
-[Isometric Graphics with Javascript]({{ site.baseurl }}//isomerJS){:target="_blank"}
 </div>
+
+[Isometric Graphics with Javascript]({{ site.baseurl }}/isomerJS){:target="_blank"}
 
 Let's first look at the following example where objects are <b>NOT</b> being used: 2 Isometric cubes are created, hit detection bitmaps created and mouseEvents attached, check it out:
 
@@ -40,8 +41,9 @@ Like many things in programming, there are more than one way of doing things, so
 
 
 <div class="note"><b>Note: </b> ES6 the new and shinny version of Javascript brings yet another way you can create objects with the class syntax, here is an in depth comparison and introduction to classes in Javascript if you want to explore them :
-[ES6 Sampler #3: (Classes)]({{ site.baseurl }}/es6-classes){:target="_blank"}
 </div>
+
+[ES6 Sampler #3: (Classes)]({{ site.baseurl }}/es6-classes){:target="_blank"}
 
 <h3 class="subHeader">Object Methods</h3>
 
