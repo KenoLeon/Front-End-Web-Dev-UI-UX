@@ -3,7 +3,9 @@ body {
 }
 body .post, .pageNav{
   font-family: 'Merriweather', serif;
-  font-size: 18px;
+  /*font-family:"Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma, Sans-Serif;*/
+  /*font-size: 18px;*/
+font-size: calc(14px + 8 * ((100vw - 320px) / 880));
 }
 
 p{
