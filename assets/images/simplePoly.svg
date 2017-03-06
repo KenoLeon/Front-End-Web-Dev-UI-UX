@@ -1,16 +1,8 @@
-@@ -3,13 +3,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="geometry" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1200px" height="700px" viewBox="0 0 1200 700" enable-background="new 0 0 1200 700" xml:space="preserve">
-<g id="mrCube">
-
-		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		504,400 647.469,417.021 644,489 681,421 647.469,417.021 656,240 692,213 504,201 504,227.552 504,400 430,452 644,489 681,421
-		696,213 656,240 504,227.552 424,221 430,452 	"/>
-
-		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		504,201 501,201 424,221 	"/>
-</g>
 <path id="mrCube" fill="#FFFFFF" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 	M504,400l143.469,17.021L644,489l37-68l-33.531-3.979L656,240l36-27l-188-12v26.552V400l-74,52l214,37l37-68l15-208l-40,27
 	l-152-12.448L424,221l6,231 M504,201h-3l-77,20"/>
