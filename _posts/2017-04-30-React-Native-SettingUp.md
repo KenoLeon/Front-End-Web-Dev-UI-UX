@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Writing a simple mobile app with React-Native Part 1. Setting Up'
-excerpt: App development for both Android and iOS has evolved during the past years, let's check a very popular framework for writing both in one go...React-Native.  in this first part where we cover setting up.
+title: 'App development with React-Native Part 1. Setting Up'
+excerpt: App development for both Android and iOS has evolved during the past years, let's check a very popular framework for writing both in one go...React-Native.
 permalink: /ReactNativePt1
 smlogo: ReactNative.png
 ---
