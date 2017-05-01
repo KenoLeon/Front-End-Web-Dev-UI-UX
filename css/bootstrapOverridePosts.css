@@ -24,6 +24,12 @@ p{
     margin-top: -200px;
     padding-bottom: 200px;
 }
+
+.post img{
+	display: block;
+	margin: 0 auto;
+}
+
 .post a, .post a:active{
     text-decoration: underline;
     /*color: black;*/
