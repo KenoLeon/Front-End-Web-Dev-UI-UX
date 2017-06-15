@@ -35,7 +35,6 @@
 
 .list-group h2{
   padding-left: 0px;
-  color:  #a0aecc;
 }
 
 
@@ -45,6 +44,7 @@
 
 a.list-group-item .list-group-item-heading{
   /*color: rgb(110, 110, 110);*/
+    color:  #a0aecc;
 }
 
 .list-group-item img{
