@@ -22,14 +22,14 @@
 .postIndex .list-group-item-text{
       /*font-family: 'Merriweather', serif;*/
    font-size: 19px;
-   font-style: italic;
    text-indent: 20px;
-
+   color: rgb(85, 85, 85);
 }
 
 .list-group h4{
      /*font-family: 'Merriweather', serif;*/
   font-size: 16px;
+  color: rgb(123, 123, 123);
 }
 
 
