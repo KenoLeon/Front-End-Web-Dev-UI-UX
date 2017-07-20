@@ -1,7 +1,7 @@
 /* Blog Section*/
 
 .postIndex{
-     font-family: 'Merriweather', serif;
+     /*font-family: 'Merriweather', serif;*/
   font-size: 18px;
   box-shadow: 0 2rem 4rem -1rem rgba(0, 0, 0, 0.2);
 }
@@ -20,17 +20,16 @@
 }
 
 .postIndex .list-group-item-text{
-      font-family: 'Merriweather', serif;
+      /*font-family: 'Merriweather', serif;*/
    font-size: 19px;
-   font-style: italic;
    text-indent: 20px;
-
+   color: rgb(85, 85, 85);
 }
 
 .list-group h4{
-     font-family: 'Merriweather', serif;
+     /*font-family: 'Merriweather', serif;*/
   font-size: 16px;
-  color: rgb(110, 110, 110);
+  color: rgb(123, 123, 123);
 }
 
 
@@ -45,6 +44,7 @@
 
 a.list-group-item .list-group-item-heading{
   /*color: rgb(110, 110, 110);*/
+    color:  #a0aecc;
 }
 
 .list-group-item img{
